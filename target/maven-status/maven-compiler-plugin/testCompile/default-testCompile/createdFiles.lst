@@ -1,0 +1,14 @@
+com\Bookingshop\testcases\TC_003_ViewBasket.class
+com\Bookingshop\pageobjects\HomePage_Sliders.class
+com\Bookingshop\testcases\TC_004_Checkout.class
+com\Bookingshop\utilities\ReadConfig.class
+com\Bookingshop\pageobjects\Addtocart.class
+com\Bookingshop\pageobjects\ProceedCheckout.class
+com\Bookingshop\testcases\TC_005_ShippingAddress.class
+com\Bookingshop\utilities\Reporting.class
+com\Bookingshop\testcases\TC_001_Shop_verify.class
+com\Bookingshop\pageobjects\ViewBasket.class
+com\Bookingshop\utilities\XLUtilities.class
+com\Bookingshop\testcases\BaseClass.class
+com\Bookingshop\pageobjects\ShippingAaddress.class
+com\Bookingshop\testcases\TC_002_Addtocart.class
